@@ -93,7 +93,7 @@ Launch the frontend:
 streamlit run streamlit_app.py
 ```
 
-🤖 Contributing
+## 🤖 Contributing
 
 Contributions are welcome! Please open issues or submit PRs with improvements.
 
